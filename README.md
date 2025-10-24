@@ -1,4 +1,4 @@
-Process Placeholder - Resource Optimisation with Window Position Preservation
+**Process Placeholder - Resource Optimisation with Window Position Preservation**
 
 Process Placeholder is a Windows desktop application that automatically terminates selected processes to free RAM and CPU resources by creating visual image placeholders at their original screen locations. These placeholders preserve exact window coordinates and state, enabling one-click restoration.
 
