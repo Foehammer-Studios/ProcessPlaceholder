@@ -1,7 +1,6 @@
 **Process Placeholder - Resource Optimisation with Window Position Preservation**
 
-Process Placeholder is a Windows desktop application that automatically terminates selected processes to free RAM and CPU resources by creating visual image placeholders at their original screen locations. These placeholders preserve exact window coordinates and state, enabling one-click restoration.
-
+Process Placeholder is a Windows desktop application that automatically terminates selected processes to free RAM and CPU resources by creating visual image placeholders at their original screen locations. Placeholders preserve near exact window coordinates and state, enabling one-click restoration.
 
 --- Memory Management ---
 - Display memory usage per process
@@ -11,11 +10,6 @@ Process Placeholder is a Windows desktop application that automatically terminat
 --- Window Position Preservation ---
 - Record exact pixel coordinates and dimensions
 - Store screen assignments for multi-monitor setups
-
---- Multi-Monitor Support ---
-- Handle any display configuration
-- Support portrait and landscape orientations
-- Adjust automatically for monitor changes
 
 --- Visual Placeholders ---
 - Capture screenshot before termination
@@ -29,15 +23,13 @@ Process Placeholder is a Windows desktop application that automatically terminat
 - Auto-terminate processes exceeding threshold
 - Display countdown showing time until termination
 
-
 --- Session Persistence ---
 - Save monitoring state between sessions
 - Restore all terminated processes on shutdown
 - Preserve user settings and thresholds across restarts
 
-
 Notes:
 - Process list requires manual refresh, monitored processors refresh every 10s. More options if in demand.
 
 
-Bugs = https://discord.gg/dxNZfuGpsr
+If any bugs or features to address, head over to our discord server: https://discord.gg/dxNZfuGpsr
